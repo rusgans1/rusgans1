@@ -19,11 +19,15 @@
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мои+контакты)
 ---
-<a href="https://t.me/nikolas_petronas" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://wa.me/79111500052" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://t.me/nikolas_petronas">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://wa.me/79111500052">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="mailto:rusgans@icloud.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Моя+статистика)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusgans1)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusgans1)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusgans1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=rusgans1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
